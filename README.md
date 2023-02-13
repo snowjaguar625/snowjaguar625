@@ -68,7 +68,7 @@ Sincerely,</p>
 <code><a href="https://aws.amazon.com"><img alt="AWS" title="AWS" src="https://github.com/Nicoli430/logoMaster/blob/master/aws.png" height="42"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/services/devops"><img alt="GitHub" title="Azure DevOps" src="https://github.com/Nicoli430/logoMaster/blob/master/azure.png" height="42"></a></code>
 
-## 📈 Stats
+## Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
