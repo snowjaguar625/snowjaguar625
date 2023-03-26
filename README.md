@@ -1,5 +1,5 @@
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
-![GitHub Contributors Image](https://contrib.rocks/image?repo=snowjaguar625/rss-to-telegram-bot)
+
 <p align="justify">Creative software engineer with 8 years of experience.</p>
 
 <p align="justify">As a talented and hardworking developer, I always stick to a result-driven working manner with great attention to detail, periodic thorough code review, and critical thinking. </p>
