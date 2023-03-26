@@ -1,20 +1,5 @@
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
-![](https://img.shields.io/badge/React-Expert-informational?style=flat&logo=react&logoColor=white&color=red)
-![](https://img.shields.io/badge/Angular-Expert-informational?style=flat&logo=angular&logoColor=white&color=red)
-![](https://img.shields.io/badge/Vue-Expert-informational?style=flat&logo=vue&logoColor=white&color=red)
-![](https://img.shields.io/badge/Solidity-Expert-informational?style=flat&logo=solidity&logoColor=white&color=red)
-![](https://img.shields.io/badge/Laravel-Expert-informational?style=flat&logo=laravel&logoColor=white&color=red)
-![](https://img.shields.io/badge/NestJS-Expert-informational?style=flat&logo=nestjs&logoColor=white&color=red)
-![](https://img.shields.io/badge/Mysql-Expert-informational?style=flat&logo=Mysql&logoColor=white&color=red)
-![](https://img.shields.io/badge/Git-Expert-informational?style=flat&logo=git&logoColor=white&color=red)
-![](https://img.shields.io/badge/PostgreSQL-Expert-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 
-![](https://img.shields.io/badge/Rust-Experienced-informational?style=flat&logo=rust&logoColor=white&color=blue)
-![](https://img.shields.io/badge/React%20Native-Experienced-informational?style=flat&logo=react&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Python-Skilled-informational?style=flat&logo=python&logoColor=white&color=green)
-![](https://img.shields.io/badge/ASP.NET-Skilled-informational?style=flat&logo=asp.net&logoColor=white&color=green)
 
 <p align="justify">Creative software engineer with 8 years of experience.</p>
 
