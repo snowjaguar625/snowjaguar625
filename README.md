@@ -1,4 +1,6 @@
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2> 
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <p align="justify">Creative software engineer with 8 years of experience.</p>
 
