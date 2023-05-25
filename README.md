@@ -22,27 +22,27 @@ Sincerely,</p>
 </p>
 
 ### Languages/Frameworks I'm good at:
-<code><a href="#"><img alt="C++" title="C++" src="https://github.com/Nicoli430/logoMaster/blob/master/c++.png" height="42"></a></code>
-<code><a href="#"><img alt="C#" title="C#" src="https://github.com/Nicoli430/logoMaster/blob/master/c%23.png" height="42"></a></code>
-<code><a href="https://www.qt.io"><img alt="Qt" title="Qt" src="https://github.com/Nicoli430/logoMaster/blob/master/qt.png" height="42"></a></code>
-<code><a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" src="https://github.com/Nicoli430/logoMaster/blob/master/javascript.png" height="42"></a></code>
-<code><a href="https://www.php.com"><img alt="Php" title="Php" src="https://github.com/Nicoli430/logoMaster/blob/master/php.png" height="42"></a></code>
-<code><a href="https://solana.com"><img alt="Solana" title="Solana" src="https://github.com/Nicoli430/logoMaster/blob/master/solana.png" height="42"></a></code>
-<code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/Nicoli430/logoMaster/blob/master/laravel.png" height="42"></a></code>
-<code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/Nicoli430/logoMaster/blob/master/nodejs.png" height="42"></a></code>
-<code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/Nicoli430/logoMaster/blob/master/react.png" height="42"></a></code>
-<code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/Nicoli430/logoMaster/blob/master/vue.png" height="42"></a></code>
-<code><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/Nicoli430/logoMaster/blob/master/java.png" height="42"></a></code>
-<code><a href="https://android.com"><img alt="Android" title="Android" src="https://github.com/Nicoli430/logoMaster/blob/master/android.png" height="42"></a></code>
-<code><a href="https://angular.io"><img alt="Angular" title="Agnular" src="https://github.com/Nicoli430/logoMaster/blob/master/angular.png" height="42"></a></code>
-<code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/Nicoli430/logoMaster/blob/master/python.png" height="42"></a></code>
-<code><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/Nicoli430/logoMaster/blob/master/mysql.png" height="42"></a></code>
+<code style="margin: 5px"><a href="#"><img alt="C++" title="C++" src="https://github.com/Nicoli430/logoMaster/blob/master/c++.png" height="42"></a></code>
+<code style="margin: 5px"><a href="#"><img alt="C#" title="C#" src="https://github.com/Nicoli430/logoMaster/blob/master/c%23.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.qt.io"><img alt="Qt" title="Qt" src="https://github.com/Nicoli430/logoMaster/blob/master/qt.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" src="https://github.com/Nicoli430/logoMaster/blob/master/javascript.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.php.com"><img alt="Php" title="Php" src="https://github.com/Nicoli430/logoMaster/blob/master/php.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/Nicoli430/logoMaster/blob/master/python.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/Nicoli430/logoMaster/blob/master/java.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/Nicoli430/logoMaster/blob/master/ci.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/Nicoli430/logoMaster/blob/master/laravel.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/Nicoli430/logoMaster/blob/master/nodejs.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/Nicoli430/logoMaster/blob/master/react.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/Nicoli430/logoMaster/blob/master/vue.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://angular.io"><img alt="Angular" title="Agnular" src="https://github.com/Nicoli430/logoMaster/blob/master/angular.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/Nicoli430/logoMaster/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Nicoli430/logoMaster/blob/master/postgresql.png" height="42"></a></code>
-<code><a href="https://www.mongodb.org"><img alt="MongoDB" title="MongoDB" src="https://github.com/Nicoli430/logoMaster/blob/master/mongodb.png" height="42"></a></code>
-<code><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/Nicoli430/logoMaster/blob/master/ci.png" height="42"></a></code>
-<code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/Nicoli430/logoMaster/blob/master/flutter.png" height="42"></a></code>
-<code><a href="https://nextjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/next.png" height="42"></a></code>
-<code><a href="https://nuxtjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/nuxt.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.mongodb.org"><img alt="MongoDB" title="MongoDB" src="https://github.com/Nicoli430/logoMaster/blob/master/mongodb.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://nextjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/next.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://nuxtjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/nuxt.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://android.com"><img alt="Android" title="Android" src="https://github.com/Nicoli430/logoMaster/blob/master/android.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/Nicoli430/logoMaster/blob/master/flutter.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://solana.com"><img alt="Solana" title="Solana" src="https://github.com/Nicoli430/logoMaster/blob/master/solana.png" height="42"></a></code>
 
 ### Languages/Frameworks I'm learning:
 
