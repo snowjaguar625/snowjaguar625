@@ -30,6 +30,7 @@ Sincerely,</p>
 
 <hr/>
 <code style="margin: 5px"><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/Nicoli430/logoMaster/blob/master/django.png" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Rails" title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="42"></a></code>
 <code style="margin: 5px"><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/Nicoli430/logoMaster/blob/master/ci.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/Nicoli430/logoMaster/blob/master/laravel.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/Nicoli430/logoMaster/blob/master/nodejs.png" height="42"></a></code>
