@@ -15,12 +15,6 @@ Sincerely,</p>
 
 ## My Skills
 
-### Languages & Tools
-<p>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/></code>
-          
-</p>
-
 ### Languages/Frameworks I'm good at:
 <code style="margin: 5px"><a href="#"><img alt="C++" title="C++" src="https://github.com/Nicoli430/logoMaster/blob/master/c++.png" height="42"></a></code>
 <code style="margin: 5px"><a href="#"><img alt="C#" title="C#" src="https://github.com/Nicoli430/logoMaster/blob/master/c%23.png" height="42"></a></code>
@@ -28,6 +22,7 @@ Sincerely,</p>
 <code style="margin: 5px"><a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" src="https://github.com/Nicoli430/logoMaster/blob/master/javascript.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://www.php.com"><img alt="Php" title="Php" src="https://github.com/Nicoli430/logoMaster/blob/master/php.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/Nicoli430/logoMaster/blob/master/python.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/Nicoli430/logoMaster/blob/master/django.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/Nicoli430/logoMaster/blob/master/java.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/Nicoli430/logoMaster/blob/master/ci.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/Nicoli430/logoMaster/blob/master/laravel.png" height="42"></a></code>
@@ -42,14 +37,16 @@ Sincerely,</p>
 <code style="margin: 5px"><a href="https://www.mongodb.org"><img alt="MongoDB" title="MongoDB" src="https://github.com/Nicoli430/logoMaster/blob/master/mongodb.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://android.com"><img alt="Android" title="Android" src="https://github.com/Nicoli430/logoMaster/blob/master/android.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/Nicoli430/logoMaster/blob/master/flutter.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.swift.com"><img alt="Swift" title="Swift" src="https://github.com/Nicoli430/logoMaster/blob/master/swift.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.solidity.io"><img alt="Solidity" title="Solidity" src="https://github.com/Nicoli430/logoMaster/blob/master/solidity.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://solana.com"><img alt="Solana" title="Solana" src="https://github.com/Nicoli430/logoMaster/blob/master/solana.png" height="42"></a></code>
 
 ### Languages/Frameworks I'm learning:
 
-<code><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/Nicoli430/logoMaster/blob/master/django.png" height="42"></a></code>
-<code><a href="https://www.swift.com"><img alt="Swift" title="Swift" src="https://github.com/Nicoli430/logoMaster/blob/master/swift.png" height="42"></a></code>
-<code><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
-<code><a href="https://www.solidity.io"><img alt="Solidity" title="Solidity" src="https://github.com/Nicoli430/logoMaster/blob/master/solidity.png" height="42"></a></code>
+
+
+
 
 ### Environments I work with:
 
