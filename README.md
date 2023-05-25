@@ -24,7 +24,9 @@ Sincerely,</p>
 <code style="margin: 5px"><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/Nicoli430/logoMaster/blob/master/python.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://www.solidity.io"><img alt="Solidity" title="Solidity" src="https://github.com/Nicoli430/logoMaster/blob/master/solidity.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/Nicoli430/logoMaster/blob/master/java.png" height="42"></a></code>
-<code style="margin: 5px"><a href="https://java.com"><img alt="Dart" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Dart" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Go" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Ruby" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42"></a></code>
 
 <hr/>
 <code style="margin: 5px"><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/Nicoli430/logoMaster/blob/master/django.png" height="42"></a></code>
