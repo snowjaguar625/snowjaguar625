@@ -15,6 +15,12 @@ Sincerely,</p>
 
 ## My Skills
 
+### Languages & Tools
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/>
+          
+</p>
+
 ### Languages/Frameworks I'm good at:
 <code><a href="#"><img alt="C++" title="C++" src="https://github.com/Nicoli430/logoMaster/blob/master/c++.png" height="42"></a></code>
 <code><a href="#"><img alt="C#" title="C#" src="https://github.com/Nicoli430/logoMaster/blob/master/c%23.png" height="42"></a></code>
