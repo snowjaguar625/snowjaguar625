@@ -22,7 +22,6 @@ Sincerely,</p>
 <code style="margin: 5px"><a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" src="https://github.com/Nicoli430/logoMaster/blob/master/javascript.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://www.php.com"><img alt="Php" title="Php" src="https://github.com/Nicoli430/logoMaster/blob/master/php.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/Nicoli430/logoMaster/blob/master/python.png" height="42"></a></code>
-<br/>
 <hr/>
 <code style="margin: 5px"><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/Nicoli430/logoMaster/blob/master/django.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/Nicoli430/logoMaster/blob/master/java.png" height="42"></a></code>
