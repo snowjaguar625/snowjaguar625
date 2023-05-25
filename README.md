@@ -17,7 +17,7 @@ Sincerely,</p>
 
 ### Languages & Tools
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/></code>
           
 </p>
 
