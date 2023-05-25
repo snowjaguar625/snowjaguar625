@@ -38,12 +38,23 @@ Sincerely,</p>
 <code style="margin: 5px"><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/Nicoli430/logoMaster/blob/master/vue.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://nuxtjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/nuxt.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://angular.io"><img alt="Angular" title="Agnular" src="https://github.com/Nicoli430/logoMaster/blob/master/angular.png" height="42"></a></code>
-<code style="margin: 5px"><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/Nicoli430/logoMaster/blob/master/mysql.png" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Hugo" title="Hugo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Webflow" title="Webflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="" title="" src="" height="42"></a></code>
+
+
+<hr/>
+<code style="margin: 5px"><a href="https://www.mysql.com"><img alt="MySQL" title="Mysql" src="https://github.com/Nicoli430/logoMaster/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Nicoli430/logoMaster/blob/master/postgresql.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://www.mongodb.org"><img alt="MongoDB" title="MongoDB" src="https://github.com/Nicoli430/logoMaster/blob/master/mongodb.png" height="42"></a></code>
+
+<hr/>
 <code style="margin: 5px"><a href="https://android.com"><img alt="Android" title="Android" src="https://github.com/Nicoli430/logoMaster/blob/master/android.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/Nicoli430/logoMaster/blob/master/flutter.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://www.swift.com"><img alt="Swift" title="Swift" src="https://github.com/Nicoli430/logoMaster/blob/master/swift.png" height="42"></a></code>
+
+<hr/>
 <code style="margin: 5px"><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://solana.com"><img alt="Solana" title="Solana" src="https://github.com/Nicoli430/logoMaster/blob/master/solana.png" height="42"></a></code>
 
