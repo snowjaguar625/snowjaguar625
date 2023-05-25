@@ -42,8 +42,6 @@ Sincerely,</p>
 <code style="margin: 5px"><a href=""><img alt="Hugo" title="Hugo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" height="42"></a></code>
 <code style="margin: 5px"><a href=""><img alt="Webflow" title="Webflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="42"></a></code>
 <code style="margin: 5px"><a href=""><img alt="Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="42"></a></code>
-<code style="margin: 5px"><a href=""><img alt="" title="" src="" height="42"></a></code>
-
 
 <hr/>
 <code style="margin: 5px"><a href=""><img alt="Oracle" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42"></a></code>
@@ -51,6 +49,18 @@ Sincerely,</p>
 <code style="margin: 5px"><a href="https://www.mysql.com"><img alt="MySQL" title="Mysql" src="https://github.com/Nicoli430/logoMaster/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Nicoli430/logoMaster/blob/master/postgresql.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://www.mongodb.org"><img alt="MongoDB" title="MongoDB" src="https://github.com/Nicoli430/logoMaster/blob/master/mongodb.png" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="graphQL" title="graphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Firebase" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="42"></a></code>
+
+<hr/>
+<code style="margin: 5px"><a href=""><img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Kubernetes" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="DigitalOcean" title="DigitalOcean" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Azure" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Jira" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Jenkins" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Trello" title="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="42"></a></code>
 
 <hr/>
 <code style="margin: 5px"><a href="https://android.com"><img alt="Android" title="Android" src="https://github.com/Nicoli430/logoMaster/blob/master/android.png" height="42"></a></code>
