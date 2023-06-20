@@ -85,10 +85,6 @@ Sincerely,</p>
 <code><a href="https://aws.amazon.com"><img alt="AWS" title="AWS" src="https://github.com/Nicoli430/logoMaster/blob/master/aws.png" height="42"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/services/devops"><img alt="GitHub" title="Azure DevOps" src="https://github.com/Nicoli430/logoMaster/blob/master/azure.png" height="42"></a></code>
 
-## Let's Connect
-<a href="https://t.me/devstar625"><img align="center" src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" height="auto" width="20"></a>
-<a href="https://join.skype.com/invite/zMda0RkWscfQ"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/patternfly/3.59.5/img/skype-logo.svg" height="auto" width="20"></a>
-
 ## Stats
 
 <div align="center">
