@@ -72,11 +72,6 @@ Sincerely,</p>
 <code style="margin: 5px"><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
 <code style="margin: 5px"><a href="https://solana.com"><img alt="Solana" title="Solana" src="https://github.com/Nicoli430/logoMaster/blob/master/solana.png" height="42"></a></code>
 
-### Languages/Frameworks I'm learning:
-
-
-
-
 
 ### Environments I work with:
 
@@ -88,7 +83,7 @@ Sincerely,</p>
 ## Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" /> -->
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
